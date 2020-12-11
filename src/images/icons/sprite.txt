@@ -1,0 +1,83 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-Dribble {
+    width: 27px;
+    height: 27px;
+    background-position: -5px -5px;
+}
+
+.sprite-Facebook {
+    width: 13px;
+    height: 26px;
+    background-position: -42px -5px;
+}
+
+.sprite-Google {
+    width: 28px;
+    height: 25px;
+    background-position: -65px -5px;
+}
+
+.sprite-Twitter {
+    width: 26px;
+    height: 22px;
+    background-position: -103px -5px;
+}
+
+.sprite-Youtube {
+    width: 26px;
+    height: 26px;
+    background-position: -139px -5px;
+}
+
+.sprite-cart {
+    width: 52px;
+    height: 52px;
+    background-position: -175px -5px;
+}
+
+.sprite-heart {
+    width: 30px;
+    height: 26px;
+    background-position: -237px -5px;
+}
+
+.sprite-i-phone {
+    width: 38px;
+    height: 61px;
+    background-position: -277px -5px;
+}
+
+.sprite-label {
+    width: 15px;
+    height: 31px;
+    background-position: -325px -5px;
+}
+
+.sprite-pencil {
+    width: 26px;
+    height: 27px;
+    background-position: -350px -5px;
+}
+
+.sprite-portfolio {
+    width: 31px;
+    height: 28px;
+    background-position: -386px -5px;
+}
+
+.sprite-roller {
+    width: 49px;
+    height: 58px;
+    background-position: -427px -5px;
+}
+
+.sprite-support {
+    width: 55px;
+    height: 52px;
+    background-position: -486px -5px;
+}
